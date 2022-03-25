@@ -1,1 +1,1 @@
-https://viachaslau-litvinchuk.github.io/rsschool-cv/cv
+https://viachaslau-litvinchuk.github.io/rsschool-cv/
