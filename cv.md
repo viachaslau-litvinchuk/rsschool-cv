@@ -1,26 +1,26 @@
 # **Viachaslau Litvinchuk**
 ### *Junior Software Developer*
----
+  
 ## **Contacts**:
----
+  
 **E-mail:** viachaslau@gmail.com\
 **Discord:** viachaslau-litvinchuk#2717\
 [**LinkedIn**](https://www.linkedin.com/in/viachaslau-litvinchuk-100161206/)  
   
 ## **Summary**
----
+  
 SAP HANA developer with 1+ year of IT experience.
 My strengths include analytical and communication skills, as well as the ability to collaborate and work as a team. I'm highly motivated and well skilled specialist. Highly self-organized and work well with a customer and project team to solve problems.
 Worked successfully in multicultural environment.
   
 ## **Skills**
----
+  
 Experience in working with SAP HANA Platform (XS/XSA), SAP BW/4HANA, SAP Lumira Designer, SAP Lumira Discovery, SAP Analytics Cloud.
 Have practical skills in SQL, SAP HANA database modeling and development, SAP HANA Security, JavaScript/TypeScript (Node.js, SAPUI5).
 Skill in utilizing Git, Docker.
   
 ## **Code example**
----
+  
 There is a solution of [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/javascript) task:
 ```
 const maxSequence = function(arr){
@@ -36,7 +36,7 @@ const maxSequence = function(arr){
 ```
   
 ## **Experience**
----
+  
 * **EPAM SYSTEMS**  
    
   _Project Role:_ Junior Developer
@@ -63,7 +63,6 @@ const maxSequence = function(arr){
   - Jest
   - NestJS
   - SQLScript 
-*** 
 * **EPAM SYSTEMS** 
 
   _Project Role:_ Junior Developer  
@@ -89,15 +88,14 @@ const maxSequence = function(arr){
   - SQLScript  
   
 ## **Education**
----
+  
   - 2021 - EPAM SAP Lab
   - 2020 - EPAM Upskill Lab
   - 2018 - Francysk Skaryna Gomel State University. Master in Geography
   - 2015 - Francysk Skaryna Gomel State University. Bachelor in Ecology
   
 ## **Languages**
----
+  
 - English - B1+
 - Belarusian - Native
 - Russian - Native
- 
