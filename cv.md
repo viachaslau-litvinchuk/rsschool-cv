@@ -35,4 +35,69 @@ const maxSequence = function(arr){
 }
 ```
   
+## **Experience**
+---
+* **EPAM SYSTEMS**  
+   
+  _Project Role:_ Junior Developer
+  
+  _Customer:_ multinational software corporation that develops enterprise software to manage business operations and customer relations.  
+  
+  _Project:_ Development and L2-L3 support of the Project Calendar and Financial Planning tools  and used for project planning, monitoring and execution.  
+  
+  _Participation:_ 
+  - Implementation of required SAP HANA stored procedures and table functions
+  - Development of Calculation Views
+  - Providing unit tests as an essential part of development process
+  - Performing bug fixes and refactoring  
+  
+  _Tools:_ 
+  - Git
+  - VS Code
+  - SAP Web IDE
+  - Swagger  
+  
+  _Technologies:_
+  - Node.js
+  - TypeScript
+  - Jest
+  - NestJS
+  - SQLScript 
+*** 
+* **EPAM SYSTEMS** 
+
+  _Project Role:_ Junior Developer  
+    
+  _Project:_ Training Project "Online Store". The project to create reporting on basis of HANA Model.  
+    
+  _Participation:_ 
+  - Analysis of business problem
+  - HANA modelling using CDS
+  - Development of back-end services
+  - Development of front-end services  
+    
+  _Tools:_
+  - Git
+  - VS Code
+  - SAP Web IDE 
+  - Docker  
+    
+  _Technologies:_
+  - Node.js
+  - SAPUI5
+  - CDS
+  - SQLScript  
+  
+## **Education**
+---
+  - 2021 - EPAM SAP Lab
+  - 2020 - EPAM Upskill Lab
+  - 2018 - Francysk Skaryna Gomel State University. Master in Geography
+  - 2015 - Francysk Skaryna Gomel State University. Bachelor in Ecology
+  
+## **Languages**
+---
+- English - B1+
+- Belarusian - Native
+- Russian - Native
  
